@@ -72,4 +72,4 @@ Flutter 프로젝트 생성 후 아래 구조를 기본으로 사용한다.
 - 개발 머신은 macOS Apple Silicon 기준이다.
 - 팀은 Flutter를 전역 설치 방식이 아닌 FVM 기준으로 사용한다.
 - Android 환경은 MVP가 안정화된 뒤 추가한다.
-- `READEME.md`는 이후 `README.md`로 정리한다.
+- 초기 기획 문서는 `CONCEPT.md`로 유지하고, 사용자용 소개 문서는 `README.md`를 기준으로 관리한다.

@@ -1,8 +1,8 @@
 # Repository Guidelines
 
 ## 프로젝트 구조 및 모듈 구성
-이 저장소는 현재 기획 문서 중심 단계입니다. 루트에는 아래 문서가 있습니다.
-- `READEME.md`: 초기 프로젝트 컨셉과 로드맵
+이 저장소는 현재 기획 문서와 구현 코드가 함께 있는 단계입니다. 루트에는 아래 문서가 있습니다.
+- `CONCEPT.md`: 초기 프로젝트 컨셉과 로드맵
 - `TASK.md`: MVP 범위, 아키텍처 메모, 테스트 체크리스트
 - `DESIGN.md`: `assets/sample1.png` 기준의 UI 디자인 가이드
 - `assets/`: 참고 이미지와 향후 앱 에셋 저장 위치
@@ -46,4 +46,4 @@ PR에는 아래 내용을 포함합니다.
 - 실행한 테스트 기록 (`flutter test`, `flutter analyze`)
 
 ## 에이전트 메모
-코드 구현 전에는 항상 `TASK.md`와 `DESIGN.md`를 기준으로 변경 방향을 맞춥니다. `READEME.md`와 범위 또는 디자인 결정이 충돌하면 현재 기준 문서는 `TASK.md`와 `DESIGN.md`로 간주합니다.
+코드 구현 전에는 항상 `TASK.md`와 `DESIGN.md`를 기준으로 변경 방향을 맞춥니다. `CONCEPT.md`와 범위 또는 디자인 결정이 충돌하면 현재 기준 문서는 `TASK.md`와 `DESIGN.md`로 간주합니다.

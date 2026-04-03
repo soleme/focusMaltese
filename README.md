@@ -30,7 +30,7 @@
 - [DESIGN.md](/Users/leo_park/coding/codex01/DESIGN.md): UI/비주얼 가이드
 - [DEV.md](/Users/leo_park/coding/codex01/DEV.md): 개발 환경 기준
 - [AGENTS.md](/Users/leo_park/coding/codex01/AGENTS.md): 기여 가이드
-- `READEME.md`: 초기 기획 초안 문서
+- [CONCEPT.md](/Users/leo_park/coding/codex01/CONCEPT.md): 초기 기획 초안 문서
 
 ## 현재 구조
 - `lib/`: 앱 코드

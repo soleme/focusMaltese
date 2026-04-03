@@ -92,7 +92,7 @@
 - 저장 기능 도입 후 앱 재실행 시 데이터가 유지되는지 확인
 
 ## Cleanup
-- `READEME.md` 파일명 오타를 정리할지 검토
+- `READEME.md` 파일명 오타를 `CONCEPT.md`로 정리 완료
 - 로드맵의 `Phase 4` 중복 표기를 정리
 
 ## Conversation Summary
@@ -245,3 +245,5 @@
 ### Repo Setup Progress
 - 기본 Flutter README를 프로젝트 소개 README로 교체했다.
 - 저장소를 `git init`으로 초기화했다.
+- GitHub 원격 `soleme/focusMaltese`를 `origin`으로 연결했다.
+- 첫 커밋 `feat: build focus maltese mvp`를 `main` 브랜치로 푸시했다.
