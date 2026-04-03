@@ -247,3 +247,9 @@
 - 저장소를 `git init`으로 초기화했다.
 - GitHub 원격 `soleme/focusMaltese`를 `origin`으로 연결했다.
 - 첫 커밋 `feat: build focus maltese mvp`를 `main` 브랜치로 푸시했다.
+- iOS 배포 준비용 문서 `RELEASE.md`를 추가했다.
+- iOS 번들 아이디를 `com.soleme.focusMaltese` 기준으로 정리했다.
+- iOS 최소 버전을 `15.0`으로 상향했다.
+- iOS 시뮬레이터 debug build(`flutter build ios --simulator --debug --no-codesign`) 통과를 확인했다.
+- App Store 제출용 메타데이터 초안 `APP_STORE_METADATA.md`를 추가했다.
+- 개인정보 처리 초안 `PRIVACY.md`를 추가했다.
